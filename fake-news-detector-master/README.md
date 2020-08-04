@@ -1,9 +1,6 @@
 # fake-news-detector
 #created by 
-SANCHIT NANDA 
-	  &
-SHUBHRA DUGGAL
-GROUP ID (8EY-7IxFU)
+ Guru prasad
 ## Dependencies
 - python 3.x
 - nltk
