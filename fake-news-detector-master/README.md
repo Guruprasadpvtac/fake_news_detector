@@ -1,6 +1,8 @@
 # fake-news-detector
 #created by 
+
  Guru prasad
+ 
 ## Dependencies
 - python 3.x
 - nltk
